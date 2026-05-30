@@ -1,12 +1,11 @@
 # Hi, I'm José Daniel 👋
 
-**AI/ML Engineer & Backend Developer** · M.Sc. in Computer Engineering (Universidad de los Andes)
+**Data Scientist & Software Developer** · M.Sc. in Computer Engineering (Universidad de los Andes)
 
-I build and ship machine learning systems and backend software that deliver measurable impact —
-from anomaly detection in the energy sector to agentic RAG assistants powered by LLMs.
+I build and ship machine learning systems and backend software that deliver measurable impact.
 
-- 🔭 Focus: LLMs · RAG · Deep Learning · FastAPI backends
-- 🌐 Portfolio: [jdpb.site](https://jdpb.site)
+- 🔭 Focus: LLMs · RAG · Deep Learning · FastAPI backends · React frontends
+- 🌐 Portfolio: [jdpb.site](https://jdpb.site/dv)
 - 💼 LinkedIn: [jdpber](https://linkedin.com/in/jdpber)
 - 📫 j.pantojab@uniandes.edu.co
 
@@ -22,5 +21,3 @@ from anomaly detection in the energy sector to agentic RAG assistants powered by
 ### 🚀 Featured Projects
 - **[AI_assistant](https://github.com/DanielPantoja08/AI_assistant)** — Clinical AI chatbot for depression psychoeducation (LangGraph agentic RAG, crisis detection, FastAPI + React, Dockerized).
 - **[DeepSecurity](https://github.com/DanielPantoja08/DeepSecurity)** — Real-time facial recognition security system (CNN + anti-spoofing, concurrent multi-camera backend).
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPantoja08&show_icons=true)
