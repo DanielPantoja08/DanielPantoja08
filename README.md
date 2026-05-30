@@ -1,6 +1,6 @@
 # Hi, I'm José Daniel 👋
 
-**Data Scientist & Software Developer** · M.Sc. in Computer Engineering (Universidad de los Andes)
+**Data Scientist & Software Developer** · M.Sc. in Engineering (Universidad de los Andes)
 
 I build and ship machine learning systems and backend software that deliver measurable impact.
 
